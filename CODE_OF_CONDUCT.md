@@ -3,5 +3,5 @@
 # Enforcement Responsibilities
 # Scope
 # Enforcement
-# Enforcement Guildelines
-# Attrition
+# Enforcement Guidelines
+# Attribution
